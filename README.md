@@ -1,2 +1,2 @@
 # Gabs em Jupyter
-Notebooks para estudar com a Gabs [@pessoagabi](https://github.com/pessoagabi)
+Notebooks para estudar análise de dados com a [Gabs](https://github.com/pessoagabi)
